@@ -19,9 +19,9 @@ Having just gone to NYC myself right after Christmas, the Data made sense:
 - Except for the the first hour in the morning, Rides seem to steadily increase for every hour in the day. 
 
 LYFT Data: 
--What was interesting about LYFT is that for one it was not as popular and the hours being utilized greatly differed from UBER. 
+What was interesting about LYFT is that for one it was not as popular and the hours being utilized greatly differed from UBER. 
 
 # Next Steps
-- I want to create a heatmap of all the longitudes and latitudes to map out where the rides where taking place. 
+I want to create a heatmap of all the longitudes and latitudes to map out where the rides where taking place. 
 
 I hope people will find my EDA interesting!
