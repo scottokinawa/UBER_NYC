@@ -1,4 +1,7 @@
 # UBER_NYC
+
+[see code](https://github.com/scottokinawa/UBER_NYC/blob/master/UBER_Research.ipynb)
+
 I want to perform some EDA on UBER rides in NYC 
 
 I was able to get this data off of Kaggle. https://www.kaggle.com/fivethirtyeight/uber-pickups-in-new-york-city
