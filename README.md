@@ -7,12 +7,13 @@ I want to perform some EDA on UBER rides in NYC
 I was able to get this data off of Kaggle. https://www.kaggle.com/fivethirtyeight/uber-pickups-in-new-york-city
 
 The Data I used: 
-I used APR-SEP 2014 ride data for UBER 
-It contained:
-Date/Time : The date and time of the Uber pickup
-Lat : The latitude of the Uber pickup
-Lon : The longitude of the Uber pickup
-Base : The TLC base company code affiliated with the Uber pickup
+
+APR-SEP 2014 ride data for UBER 
+  It contained:
+  Date/Time : The date and time of the Uber pickup
+  Lat : The latitude of the Uber pickup
+  Lon : The longitude of the Uber pickup
+  Base : The TLC base company code affiliated with the Uber pickup
 
 Having just gone to NYC myself right after Christmas, the Data made sense: 
 
