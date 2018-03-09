@@ -18,9 +18,10 @@ APR-SEP 2014 ride data for UBER
 Having just gone to NYC myself right after Christmas, the Data made sense: 
 
 # FINDINGS:
-- Rides steadly increased as the summer months neared. The earlier months had fewer rides.
-- Also the 31st has about half the amount of rides for UBER which again makes sense since half the months don't have a 31st day. 
-- Except for the the first hour in the morning, Rides seem to steadily increase for every hour in the day. 
+- Rides steadly increased as the summer months neared. 
+- The earlier months had fewer rides.
+- Certain days of the month have fewer rides, but it was because certain days like the 31st are only present in half the months. 
+- Except for 1 A.M, rides seem to steadily increase for every hour in the day. 
 
 LYFT Data: 
 What was interesting about LYFT is that for one it was not as popular and the hours being utilized greatly differed from UBER. 
